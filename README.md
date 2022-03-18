@@ -15,13 +15,15 @@
 	<tr>
 
 <p align="center">
-by Ray1235 and Scobalula
+	by <b>Ray1235</b> and <b>Scobalula</b>
 <p align="center">
-Originally by Aidan
+	Originally by <b>Aidan</b>
 <p align="center">  
 <b>Now functionable & working!</b>
 <p align="center">
-(THIS BUILD HAS BEEN FIXED. THESE ARE THE CORRECT FILES PROVIDED BY WiiZARDD FOR CoD MAYA TOOLS. ENJOY.)
+	Patched by <b>Ryan</b>
+<p align="center">
+(THIS BUILD HAS BEEN FIXED. THESE ARE THE CORRECT FILES PROVIDED BY WiiZARDD FOR CoD MAYA TOOLS.)
 
 #  ‍ 	
 		
@@ -34,9 +36,9 @@ Originally by Aidan
 	<tr>
 		
 <p align="center">
-After scrolling around, I had realized COD Maya Tools wasn't working. At all. MODME had tried to create a recreation of the plugin but it's just not the same. Here I present to you, the working, & compiled sources for COD Maya Tools. (Tested Maya 2022) 
+After scrolling around, I realized, COD Maya Tools wasn't working. At all. MODME tried to create their own recreation of the plugin but turned out to be a failure. Here I present to you, the working, & compiled sources for COD Maya Tools. (Tested Maya 2022) 
   <p align="center">
-  USERSETUP.MEL FILE IS INCLUDED.
+  USERSETUP.MEL FILE IS INCLUDED..
 		
 #  ‍ 
 		
@@ -57,7 +59,7 @@ After scrolling around, I had realized COD Maya Tools wasn't working. At all. MO
     <b>[EXAMPLE: C:\Users\ryan\Documents\maya\2022\scripts\]</b>
 	
 <p align="center">
-⑶ Open Maya and you should be all good!
+⑶ Open Maya and you should be good.
 		
 #  ‍ 	
 
@@ -70,7 +72,7 @@ After scrolling around, I had realized COD Maya Tools wasn't working. At all. MO
 	<tr>
 
 <p align="center">
-- FIXED!
+- PATCHED/FIXED.
     
 <p align="center">
 - RELEASED.
