@@ -54,7 +54,7 @@ After scrolling around, I had realized COD Maya Tools wasn't working. At all. MO
 <p align="center">
 ⑵ Drag/Drop Contents into C:\Users\Documents\maya\maya-version\scripts\
   <p align="center">
-    <b>[EXAMPLE: C:\Users\jonny\Documents\maya\2022\scripts\]</b>
+    <b>[EXAMPLE: C:\Users\ryan\Documents\maya\2022\scripts\]</b>
 	
 <p align="center">
 ⑶ Open Maya and you should be all good!
